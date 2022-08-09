@@ -1,0 +1,9 @@
+<?php
+session_start();
+unset($_SESSION["adminEmail"]);
+unset($_SESSION["teacherId"]);
+unset($_SESSION["studentId"]);
+unset($_SESSION["start"]);
+unset($_SESSION["expire"]);
+header("location:homepage.php?logout");
+?>
