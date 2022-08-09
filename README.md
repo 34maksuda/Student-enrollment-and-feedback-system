@@ -1,1 +1,5 @@
 # Student-enrollment-and-feedback-system
+It is a website that helps the student to perform all tasks related to their enrollment.
+In a university, Enrollment is a procedure where a university give out forms that describes fees to be paid which will allow students to appear in a/some exams. In HSTU one student may want to enroll for a whole semester or particular course(s) may because he/she has failed in previously or want to improve his/her result(s). On the other hand Student-enrollment-and-feedback-system is a way that lets the students share their words about a course he/she is taking. It enables the to judge the teachers’ teaching style, course materials, etc. and share them with the teachers anonymously. This way the teacher can discover more paths to help the students with what they need.
+
+Our website is here to make these discussed procedures pen/paper free and sustainable. Here, the admin can add the information about teachers, students ,create and edit enrollment forms, for the students to fill in and enroll for certain courses, as per his/her wish. A teacher can add his courses and get the feedback that the students have shared.
